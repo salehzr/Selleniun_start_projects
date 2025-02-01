@@ -49,6 +49,5 @@ public class AppTest {
 			String newPage = browser.getCurrentUrl();
 			assertNotEquals(currentPage, newPage);
     }
-	
-	
+
 }
